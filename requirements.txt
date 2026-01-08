@@ -1,5 +1,5 @@
 numpy
-pydicom
+pydicom==2.3.1
 torch
 tqdm
 torchvision
